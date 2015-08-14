@@ -145,7 +145,7 @@
     center: function() {
       this.$elm.css({
         position: 'fixed',
-        top: "20%",
+        top: "0",
         left: "50%",
         // marginTop: - (this.$elm.outerHeight() / 2),
         marginLeft: - (this.$elm.outerWidth() / 2),
